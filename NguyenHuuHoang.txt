@@ -8,3 +8,6 @@ git add *
 git commit -m"comment"
 git push
 git commit -a -m"comment"
+git log
+git revert 'id'
+:q
