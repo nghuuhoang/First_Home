@@ -11,3 +11,4 @@ git commit -a -m"comment"
 git log
 git revert 'id'
 :q
+git pull
